@@ -1,0 +1,9 @@
+langchain
+langchain_community
+langchain_pinecone
+sentence-transformers
+ctransformers
+python-dotenv
+pinecone-client
+pypdf
+ipykernel
